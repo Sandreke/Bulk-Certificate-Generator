@@ -9,7 +9,7 @@ This [python](https://www.python.org/) project aims to generate bulk certificate
 
 Let's assume that we've finished teaching a coding bootcamp. In this way, we get data on the students, the courses in which they enrolled and the dates they finished the bootcamp.
 
-<img src="https://user-images.githubusercontent.com/64377961/213354216-a91c272a-fb42-460e-8297-5aa4de69d724.png" width="500">
+<img src="https://user-images.githubusercontent.com/64377961/213354216-a91c272a-fb42-460e-8297-5aa4de69d724.png" width="400">
 
 ### *Certificate template*
 
