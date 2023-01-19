@@ -23,7 +23,7 @@ To avoid the laborious task of creating a template from scratch with Python, we 
 
 > *Certificates/.pdf*
 
-After running the [code](https://github.com/Sandreke/Bulk-Certificate-Generator/blob/main/generate_certificates.ipynb), personalized certificates will be stored in the [Certificates](https://github.com/Sandreke/Bulk-Certificate-Generator/tree/main/Certificates) folder. In our case, this is an example of generated certificate.
+After running the [code](https://github.com/Sandreke/Bulk-Certificate-Generator/blob/main/generate_certificates.ipynb) -in which the font, position, size and color of the variables (name, course, date) to be added to the [certificate template](https://github.com/Sandreke/Bulk-Certificate-Generator/blob/main/Input/certificate_template.pdf) are customized-, personalized certificates will be stored in the [Certificates](https://github.com/Sandreke/Bulk-Certificate-Generator/tree/main/Certificates) folder. In our case, this is an example of generated certificate.
 
 <img src="https://user-images.githubusercontent.com/64377961/213356387-c6e75498-8783-4262-8c43-8aa23736e99f.png" width="500">
 
