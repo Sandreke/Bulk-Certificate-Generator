@@ -1,7 +1,7 @@
 # Bulk-Certificate-Generator
-This [python](https://www.python.org/) project aims to generate bulk certificates and personalize them using a template and a database that contains, by way of example, names, courses and dates.
+This [Python](https://www.python.org/) project aims to generate bulk certificates and personalize them using a template and a database that contains, by way of example, names, courses and dates.
 
-## Inputs
+## 📚 Inputs
 
 ### *Database*
 
@@ -19,7 +19,7 @@ To avoid the laborious task of creating a template from scratch with Python, we 
 
 <img src="https://user-images.githubusercontent.com/64377961/213355641-b332e55f-29e1-4b73-adb8-9f42be1e6914.png" width="500">
 
-## Output
+## 📃 Output
 
 > *Certificates/.pdf*
 
@@ -27,4 +27,4 @@ After running the [code](https://github.com/Sandreke/Bulk-Certificate-Generator/
 
 <img src="https://user-images.githubusercontent.com/64377961/213356387-c6e75498-8783-4262-8c43-8aa23736e99f.png" width="500">
 
-## Original post: [LinkedIn](https://lnkd.in/d-igymTB)
+## 📝 Original post: [LinkedIn](https://lnkd.in/d-igymTB)
