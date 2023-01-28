@@ -1,6 +1,8 @@
 # Bulk-Certificate-Generator
 This [Python](https://www.python.org/) project aims to generate bulk certificates and personalize them using a template and a database that contains, by way of example, names, courses and dates.
 
+## 🎥 Tutorial: [YouTube](https://youtu.be/IzuuWZ_mx4U)
+
 ## 📚 Inputs
 
 ### *Database*
